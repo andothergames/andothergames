@@ -1,19 +1,16 @@
 
-### I'm Joy, an artist and junior software developer 🐸  
+<img src="https://github.com/andothergames/p5/blob/main/LOGO_AOG_blue.png?raw=true" width="240">
+
+
+
+<img src="https://github.com/andothergames/stars/blob/main/starss/star9.png?raw=true?" width="16"> artist and maker based in MCR, UK
+
+<img src="https://github.com/andothergames/stars/blob/main/starss/star1.png?raw=true?" width="16"> atm i mess about in [sketchbooks](https://www.andothergames.co.uk/tagged/skbs), play around with [p5](https://andothergames.github.io/p5/) and learn Spanish
+
+
 
 ---
 
-Currently working on:  
+<img src="https://github.com/andothergames/stars/blob/main/starss/star15.png?raw=true?" width="16">  Northcoders final project: [Voluntier App](https://github.com/andothergames/fe-voluntier) *(2024)*
 
-<img src="https://github.com/andothergames/stars/blob/main/starss/star1.png?raw=true?" width="16">  A place to keep my [p5 drawings](https://andothergames.github.io/p5/) (p5.js)
-
-<img src="https://github.com/andothergames/stars/blob/main/starss/star9.png?raw=true?" width="16">  Developing a digital garden site to keep track of what I'm learning
-
----
-Past projects:  
-
-<img src="https://github.com/andothergames/stars/blob/main/starss/star15.png?raw=true?" width="16">  Northcoders Final Group Project: [Voluntier App](https://github.com/andothergames/fe-voluntier) (React Native)
-
-<img src="https://github.com/andothergames/stars/blob/main/starss/star4.png?raw=true?" width="16">  [Readily Article Feed Site](https://github.com/andothergames/fe-readily) (JS/Postgres/SQL/Express/React)
-
-<img src="https://github.com/andothergames/stars/blob/main/starss/star3.png?raw=true?" width="10">  MadLab Hacakthon website for local business, [Marbury Road Edible Garden](https://andothergames.github.io/marburyRoadEdibleGarden/) (HTML/CSS)
+<img src="https://github.com/andothergames/stars/blob/main/starss/star3.png?raw=true?" width="16">  MadLab hackathon site [Marbury Road Edible Garden](https://andothergames.github.io/marburyRoadEdibleGarden/) *(2023)*
